@@ -1,8 +1,8 @@
-# 🧠 Nag16
+# 🧠 wormw00d
 
 **Intelligence. Decentralized. Open.**
 
-Welcome to **Nag16** — a forward-thinking collective building cutting-edge solutions at the intersection of **Artificial Intelligence** and **Blockchain Technology**.
+Welcome to **wormw00d** — a forward-thinking collective building cutting-edge solutions at the intersection of **Artificial Intelligence** and **Blockchain Technology**.
 
 ---
 
@@ -48,9 +48,9 @@ We envision a world where AI is:
 ## 📬 Connect With Us
 
 - 🌐 [Website (Coming Soon)](#)
-- 📢 Twitter/X: [@neuroblock_ai](https://twitter.com/neuroblock_ai)
+- 📢 Twitter/X: [@wormw00d](https://twitter.com/wormw00d)
 - 💬 Discord: [Join the community](#)
-- 📧 Email: contact@Nag16.ai
+- 📧 Email: contact@wormw00d.ai
 
 ---
 
